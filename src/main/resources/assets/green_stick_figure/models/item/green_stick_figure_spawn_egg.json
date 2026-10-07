@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "green_stick_figure:item/green_stick_figure_spawn_egg"
+  }
+}
